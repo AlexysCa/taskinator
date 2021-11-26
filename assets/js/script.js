@@ -237,4 +237,4 @@ localStorage.setItem("tasks", JSON.stringify(tasks));
 pageContentEl.addEventListener("click", taskButtonHandler);
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
 
-
+// making comment to commit changes
